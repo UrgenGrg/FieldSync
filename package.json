@@ -1,0 +1,8 @@
+{
+  "name": "fieldsync",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
